@@ -1,1 +1,1 @@
-# sudoku_using_oython
+# sudoku_using_python
