@@ -10,7 +10,7 @@ How to use:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/GAURIPATIL-2004/sudoku_using_opython
+git clone https://github.com/GAURIPATIL-2004/sudoku_using_oython
 Navigate to the project directory:
 bash
 Copy code
